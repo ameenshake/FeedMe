@@ -1,0 +1,583 @@
+[24-Mar-2016 20:39:36 UTC] PHP Warning:  require_once(vendor/autoload.php): failed to open stream: No such file or directory in /home/ameensha1919/public_html/ingredients_list.php on line 3
+[24-Mar-2016 20:39:36 UTC] PHP Fatal error:  require_once(): Failed opening required 'vendor/autoload.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ameensha1919/public_html/ingredients_list.php on line 3
+[24-Mar-2016 20:39:36 UTC] PHP Warning:  require_once(vendor/autoload.php): failed to open stream: No such file or directory in /home/ameensha1919/public_html/ingredients_list.php on line 3
+[24-Mar-2016 20:39:36 UTC] PHP Fatal error:  require_once(): Failed opening required 'vendor/autoload.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ameensha1919/public_html/ingredients_list.php on line 3
+[24-Mar-2016 20:39:37 UTC] PHP Warning:  require_once(vendor/autoload.php): failed to open stream: No such file or directory in /home/ameensha1919/public_html/ingredients_list.php on line 3
+[24-Mar-2016 20:39:37 UTC] PHP Fatal error:  require_once(): Failed opening required 'vendor/autoload.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ameensha1919/public_html/ingredients_list.php on line 3
+[24-Mar-2016 20:39:37 UTC] PHP Warning:  require_once(vendor/autoload.php): failed to open stream: No such file or directory in /home/ameensha1919/public_html/ingredients_list.php on line 3
+[24-Mar-2016 20:39:37 UTC] PHP Fatal error:  require_once(): Failed opening required 'vendor/autoload.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ameensha1919/public_html/ingredients_list.php on line 3
+[24-Mar-2016 20:39:37 UTC] PHP Warning:  require_once(vendor/autoload.php): failed to open stream: No such file or directory in /home/ameensha1919/public_html/ingredients_list.php on line 3
+[24-Mar-2016 20:39:37 UTC] PHP Fatal error:  require_once(): Failed opening required 'vendor/autoload.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ameensha1919/public_html/ingredients_list.php on line 3
+[24-Mar-2016 20:39:37 UTC] PHP Warning:  require_once(vendor/autoload.php): failed to open stream: No such file or directory in /home/ameensha1919/public_html/ingredients_list.php on line 3
+[24-Mar-2016 20:39:37 UTC] PHP Fatal error:  require_once(): Failed opening required 'vendor/autoload.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ameensha1919/public_html/ingredients_list.php on line 3
+[24-Mar-2016 20:39:38 UTC] PHP Warning:  require_once(vendor/autoload.php): failed to open stream: No such file or directory in /home/ameensha1919/public_html/ingredients_list.php on line 3
+[24-Mar-2016 20:39:38 UTC] PHP Fatal error:  require_once(): Failed opening required 'vendor/autoload.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ameensha1919/public_html/ingredients_list.php on line 3
+[24-Mar-2016 20:39:38 UTC] PHP Warning:  require_once(vendor/autoload.php): failed to open stream: No such file or directory in /home/ameensha1919/public_html/ingredients_list.php on line 3
+[24-Mar-2016 20:39:38 UTC] PHP Fatal error:  require_once(): Failed opening required 'vendor/autoload.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ameensha1919/public_html/ingredients_list.php on line 3
+[24-Mar-2016 20:39:38 UTC] PHP Warning:  require_once(vendor/autoload.php): failed to open stream: No such file or directory in /home/ameensha1919/public_html/ingredients_list.php on line 3
+[24-Mar-2016 20:39:38 UTC] PHP Fatal error:  require_once(): Failed opening required 'vendor/autoload.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ameensha1919/public_html/ingredients_list.php on line 3
+[24-Mar-2016 20:39:38 UTC] PHP Warning:  require_once(vendor/autoload.php): failed to open stream: No such file or directory in /home/ameensha1919/public_html/ingredients_list.php on line 3
+[24-Mar-2016 20:39:38 UTC] PHP Fatal error:  require_once(): Failed opening required 'vendor/autoload.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ameensha1919/public_html/ingredients_list.php on line 3
+[24-Mar-2016 20:39:38 UTC] PHP Warning:  require_once(vendor/autoload.php): failed to open stream: No such file or directory in /home/ameensha1919/public_html/ingredients_list.php on line 3
+[24-Mar-2016 20:39:38 UTC] PHP Fatal error:  require_once(): Failed opening required 'vendor/autoload.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ameensha1919/public_html/ingredients_list.php on line 3
+[24-Mar-2016 20:39:39 UTC] PHP Warning:  require_once(vendor/autoload.php): failed to open stream: No such file or directory in /home/ameensha1919/public_html/ingredients_list.php on line 3
+[24-Mar-2016 20:39:39 UTC] PHP Fatal error:  require_once(): Failed opening required 'vendor/autoload.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ameensha1919/public_html/ingredients_list.php on line 3
+[24-Mar-2016 20:39:39 UTC] PHP Warning:  require_once(vendor/autoload.php): failed to open stream: No such file or directory in /home/ameensha1919/public_html/ingredients_list.php on line 3
+[24-Mar-2016 20:39:39 UTC] PHP Fatal error:  require_once(): Failed opening required 'vendor/autoload.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ameensha1919/public_html/ingredients_list.php on line 3
+[24-Mar-2016 20:39:39 UTC] PHP Warning:  require_once(vendor/autoload.php): failed to open stream: No such file or directory in /home/ameensha1919/public_html/ingredients_list.php on line 3
+[24-Mar-2016 20:39:39 UTC] PHP Fatal error:  require_once(): Failed opening required 'vendor/autoload.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ameensha1919/public_html/ingredients_list.php on line 3
+[24-Mar-2016 20:39:40 UTC] PHP Warning:  require_once(vendor/autoload.php): failed to open stream: No such file or directory in /home/ameensha1919/public_html/ingredients_list.php on line 3
+[24-Mar-2016 20:39:40 UTC] PHP Fatal error:  require_once(): Failed opening required 'vendor/autoload.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ameensha1919/public_html/ingredients_list.php on line 3
+[24-Mar-2016 20:39:41 UTC] PHP Warning:  require_once(vendor/autoload.php): failed to open stream: No such file or directory in /home/ameensha1919/public_html/ingredients_list.php on line 3
+[24-Mar-2016 20:39:41 UTC] PHP Fatal error:  require_once(): Failed opening required 'vendor/autoload.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ameensha1919/public_html/ingredients_list.php on line 3
+[24-Mar-2016 20:39:41 UTC] PHP Warning:  require_once(vendor/autoload.php): failed to open stream: No such file or directory in /home/ameensha1919/public_html/ingredients_list.php on line 3
+[24-Mar-2016 20:39:41 UTC] PHP Fatal error:  require_once(): Failed opening required 'vendor/autoload.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ameensha1919/public_html/ingredients_list.php on line 3
+[24-Mar-2016 20:39:56 UTC] PHP Warning:  require_once(vendor/autoload.php): failed to open stream: No such file or directory in /home/ameensha1919/public_html/ingredients_list.php on line 3
+[24-Mar-2016 20:39:56 UTC] PHP Fatal error:  require_once(): Failed opening required 'vendor/autoload.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ameensha1919/public_html/ingredients_list.php on line 3
+[24-Mar-2016 20:39:57 UTC] PHP Warning:  require_once(vendor/autoload.php): failed to open stream: No such file or directory in /home/ameensha1919/public_html/ingredients_list.php on line 3
+[24-Mar-2016 20:39:57 UTC] PHP Fatal error:  require_once(): Failed opening required 'vendor/autoload.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ameensha1919/public_html/ingredients_list.php on line 3
+[24-Mar-2016 20:39:57 UTC] PHP Warning:  require_once(vendor/autoload.php): failed to open stream: No such file or directory in /home/ameensha1919/public_html/ingredients_list.php on line 3
+[24-Mar-2016 20:39:57 UTC] PHP Fatal error:  require_once(): Failed opening required 'vendor/autoload.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ameensha1919/public_html/ingredients_list.php on line 3
+[24-Mar-2016 20:39:58 UTC] PHP Warning:  require_once(vendor/autoload.php): failed to open stream: No such file or directory in /home/ameensha1919/public_html/ingredients_list.php on line 3
+[24-Mar-2016 20:39:58 UTC] PHP Fatal error:  require_once(): Failed opening required 'vendor/autoload.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ameensha1919/public_html/ingredients_list.php on line 3
+[24-Mar-2016 20:39:58 UTC] PHP Warning:  require_once(vendor/autoload.php): failed to open stream: No such file or directory in /home/ameensha1919/public_html/ingredients_list.php on line 3
+[24-Mar-2016 20:39:58 UTC] PHP Fatal error:  require_once(): Failed opening required 'vendor/autoload.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ameensha1919/public_html/ingredients_list.php on line 3
+[24-Mar-2016 20:39:58 UTC] PHP Warning:  require_once(vendor/autoload.php): failed to open stream: No such file or directory in /home/ameensha1919/public_html/ingredients_list.php on line 3
+[24-Mar-2016 20:39:58 UTC] PHP Fatal error:  require_once(): Failed opening required 'vendor/autoload.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ameensha1919/public_html/ingredients_list.php on line 3
+[24-Mar-2016 20:40:13 UTC] PHP Fatal error:  Class 'Unirest\Request' not found in /home/ameensha1919/public_html/ingredients_list.php on line 24
+[24-Mar-2016 20:40:13 UTC] PHP Fatal error:  Class 'Unirest\Request' not found in /home/ameensha1919/public_html/ingredients_list.php on line 24
+[24-Mar-2016 20:40:14 UTC] PHP Fatal error:  Class 'Unirest\Request' not found in /home/ameensha1919/public_html/ingredients_list.php on line 24
+[05-Apr-2016 19:30:07 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/ameensha1919/public_html/recipe_list.php on line 26
+[05-Apr-2016 19:31:20 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/ameensha1919/public_html/recipe_list.php on line 26
+[05-Apr-2016 19:33:12 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ameensha1919/public_html/recipe_list.php on line 31
+[06-Apr-2016 01:50:23 UTC] PHP Warning:  join(): Invalid arguments passed in /home/ameensha1919/public_html/recipe_list.php on line 10
+[06-Apr-2016 01:50:23 UTC] PHP Warning:  join(): Invalid arguments passed in /home/ameensha1919/public_html/recipe_list.php on line 10
+[06-Apr-2016 01:52:37 UTC] PHP Warning:  join(): Invalid arguments passed in /home/ameensha1919/public_html/recipe_list.php on line 10
+[06-Apr-2016 01:52:37 UTC] PHP Warning:  join(): Invalid arguments passed in /home/ameensha1919/public_html/recipe_list.php on line 10
+[06-Apr-2016 01:52:37 UTC] PHP Warning:  join(): Invalid arguments passed in /home/ameensha1919/public_html/recipe_list.php on line 10
+[06-Apr-2016 01:52:37 UTC] PHP Warning:  join(): Invalid arguments passed in /home/ameensha1919/public_html/recipe_list.php on line 10
+[06-Apr-2016 01:52:37 UTC] PHP Warning:  join(): Invalid arguments passed in /home/ameensha1919/public_html/recipe_list.php on line 10
+[06-Apr-2016 01:52:37 UTC] PHP Warning:  join(): Invalid arguments passed in /home/ameensha1919/public_html/recipe_list.php on line 10
+[06-Apr-2016 01:52:37 UTC] PHP Warning:  join(): Invalid arguments passed in /home/ameensha1919/public_html/recipe_list.php on line 10
+[06-Apr-2016 01:52:37 UTC] PHP Warning:  join(): Invalid arguments passed in /home/ameensha1919/public_html/recipe_list.php on line 10
+[06-Apr-2016 01:52:37 UTC] PHP Warning:  join(): Invalid arguments passed in /home/ameensha1919/public_html/recipe_list.php on line 10
+[06-Apr-2016 01:52:37 UTC] PHP Warning:  join(): Invalid arguments passed in /home/ameensha1919/public_html/recipe_list.php on line 10
+[06-Apr-2016 01:52:37 UTC] PHP Warning:  join(): Invalid arguments passed in /home/ameensha1919/public_html/recipe_list.php on line 10
+[06-Apr-2016 01:52:37 UTC] PHP Warning:  join(): Invalid arguments passed in /home/ameensha1919/public_html/recipe_list.php on line 10
+[06-Apr-2016 01:54:40 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/ameensha1919/public_html/recipe_list.php on line 7
+[06-Apr-2016 01:55:43 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/ameensha1919/public_html/recipe_list.php on line 7
+[06-Apr-2016 01:57:27 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/ameensha1919/public_html/recipe_list.php on line 7
+[06-Apr-2016 01:58:06 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/ameensha1919/public_html/recipe_list.php on line 7
+[06-Apr-2016 02:03:19 UTC] PHP Warning:  join(): Invalid arguments passed in /home/ameensha1919/public_html/recipe_list.php on line 12
+[06-Apr-2016 02:03:19 UTC] PHP Warning:  join(): Invalid arguments passed in /home/ameensha1919/public_html/recipe_list.php on line 12
+[06-Apr-2016 02:03:19 UTC] PHP Warning:  join(): Invalid arguments passed in /home/ameensha1919/public_html/recipe_list.php on line 12
+[06-Apr-2016 02:03:19 UTC] PHP Warning:  join(): Invalid arguments passed in /home/ameensha1919/public_html/recipe_list.php on line 12
+[06-Apr-2016 02:03:19 UTC] PHP Warning:  join(): Invalid arguments passed in /home/ameensha1919/public_html/recipe_list.php on line 12
+[06-Apr-2016 02:03:19 UTC] PHP Warning:  join(): Invalid arguments passed in /home/ameensha1919/public_html/recipe_list.php on line 12
+[06-Apr-2016 02:03:19 UTC] PHP Warning:  join(): Invalid arguments passed in /home/ameensha1919/public_html/recipe_list.php on line 12
+[06-Apr-2016 02:03:19 UTC] PHP Warning:  join(): Invalid arguments passed in /home/ameensha1919/public_html/recipe_list.php on line 12
+[06-Apr-2016 02:03:19 UTC] PHP Warning:  join(): Invalid arguments passed in /home/ameensha1919/public_html/recipe_list.php on line 12
+[06-Apr-2016 02:03:19 UTC] PHP Warning:  join(): Invalid arguments passed in /home/ameensha1919/public_html/recipe_list.php on line 12
+[06-Apr-2016 02:03:19 UTC] PHP Warning:  join(): Invalid arguments passed in /home/ameensha1919/public_html/recipe_list.php on line 12
+[06-Apr-2016 02:03:19 UTC] PHP Warning:  join(): Invalid arguments passed in /home/ameensha1919/public_html/recipe_list.php on line 12
+[06-Apr-2016 02:03:19 UTC] PHP Warning:  join(): Invalid arguments passed in /home/ameensha1919/public_html/recipe_list.php on line 12
+[06-Apr-2016 02:03:19 UTC] PHP Warning:  join(): Invalid arguments passed in /home/ameensha1919/public_html/recipe_list.php on line 12
+[06-Apr-2016 02:03:19 UTC] PHP Warning:  join(): Invalid arguments passed in /home/ameensha1919/public_html/recipe_list.php on line 12
+[06-Apr-2016 02:03:19 UTC] PHP Warning:  join(): Invalid arguments passed in /home/ameensha1919/public_html/recipe_list.php on line 12
+[06-Apr-2016 02:03:19 UTC] PHP Warning:  join(): Invalid arguments passed in /home/ameensha1919/public_html/recipe_list.php on line 12
+[06-Apr-2016 02:03:19 UTC] PHP Warning:  join(): Invalid arguments passed in /home/ameensha1919/public_html/recipe_list.php on line 12
+[06-Apr-2016 02:03:19 UTC] PHP Warning:  join(): Invalid arguments passed in /home/ameensha1919/public_html/recipe_list.php on line 12
+[06-Apr-2016 02:04:00 UTC] PHP Warning:  join(): Invalid arguments passed in /home/ameensha1919/public_html/recipe_list.php on line 13
+[06-Apr-2016 02:04:00 UTC] PHP Warning:  join(): Invalid arguments passed in /home/ameensha1919/public_html/recipe_list.php on line 13
+[06-Apr-2016 02:04:00 UTC] PHP Warning:  join(): Invalid arguments passed in /home/ameensha1919/public_html/recipe_list.php on line 13
+[06-Apr-2016 02:04:00 UTC] PHP Warning:  join(): Invalid arguments passed in /home/ameensha1919/public_html/recipe_list.php on line 13
+[06-Apr-2016 02:04:00 UTC] PHP Warning:  join(): Invalid arguments passed in /home/ameensha1919/public_html/recipe_list.php on line 13
+[06-Apr-2016 02:04:00 UTC] PHP Warning:  join(): Invalid arguments passed in /home/ameensha1919/public_html/recipe_list.php on line 13
+[06-Apr-2016 02:04:00 UTC] PHP Warning:  join(): Invalid arguments passed in /home/ameensha1919/public_html/recipe_list.php on line 13
+[06-Apr-2016 02:04:00 UTC] PHP Warning:  join(): Invalid arguments passed in /home/ameensha1919/public_html/recipe_list.php on line 13
+[06-Apr-2016 02:04:00 UTC] PHP Warning:  join(): Invalid arguments passed in /home/ameensha1919/public_html/recipe_list.php on line 13
+[06-Apr-2016 02:04:00 UTC] PHP Warning:  join(): Invalid arguments passed in /home/ameensha1919/public_html/recipe_list.php on line 13
+[06-Apr-2016 02:04:00 UTC] PHP Warning:  join(): Invalid arguments passed in /home/ameensha1919/public_html/recipe_list.php on line 13
+[06-Apr-2016 02:04:00 UTC] PHP Warning:  join(): Invalid arguments passed in /home/ameensha1919/public_html/recipe_list.php on line 13
+[06-Apr-2016 02:04:00 UTC] PHP Warning:  join(): Invalid arguments passed in /home/ameensha1919/public_html/recipe_list.php on line 13
+[06-Apr-2016 02:04:00 UTC] PHP Warning:  join(): Invalid arguments passed in /home/ameensha1919/public_html/recipe_list.php on line 13
+[06-Apr-2016 02:04:00 UTC] PHP Warning:  join(): Invalid arguments passed in /home/ameensha1919/public_html/recipe_list.php on line 13
+[06-Apr-2016 02:04:00 UTC] PHP Warning:  join(): Invalid arguments passed in /home/ameensha1919/public_html/recipe_list.php on line 13
+[06-Apr-2016 02:04:00 UTC] PHP Warning:  join(): Invalid arguments passed in /home/ameensha1919/public_html/recipe_list.php on line 13
+[06-Apr-2016 02:04:00 UTC] PHP Warning:  join(): Invalid arguments passed in /home/ameensha1919/public_html/recipe_list.php on line 13
+[06-Apr-2016 02:07:19 UTC] PHP Warning:  Illegal string offset 'i' in /home/ameensha1919/public_html/recipe_list.php on line 8
+[08-Apr-2016 04:25:01 UTC] PHP Parse error:  syntax error, unexpected '$_SESSION' (T_VARIABLE) in /home/ameensha1919/public_html/recipe_list.php on line 27
+[08-Apr-2016 04:26:14 UTC] PHP Parse error:  syntax error, unexpected '$_SESSION' (T_VARIABLE) in /home/ameensha1919/public_html/recipe_list.php on line 27
+[08-Apr-2016 04:26:15 UTC] PHP Parse error:  syntax error, unexpected '$_SESSION' (T_VARIABLE) in /home/ameensha1919/public_html/recipe_list.php on line 27
+[08-Apr-2016 04:26:15 UTC] PHP Parse error:  syntax error, unexpected '$_SESSION' (T_VARIABLE) in /home/ameensha1919/public_html/recipe_list.php on line 27
+[08-Apr-2016 04:26:15 UTC] PHP Parse error:  syntax error, unexpected '$_SESSION' (T_VARIABLE) in /home/ameensha1919/public_html/recipe_list.php on line 27
+[08-Apr-2016 04:26:15 UTC] PHP Parse error:  syntax error, unexpected '$_SESSION' (T_VARIABLE) in /home/ameensha1919/public_html/recipe_list.php on line 27
+[08-Apr-2016 04:26:16 UTC] PHP Parse error:  syntax error, unexpected '$_SESSION' (T_VARIABLE) in /home/ameensha1919/public_html/recipe_list.php on line 27
+[08-Apr-2016 04:26:16 UTC] PHP Parse error:  syntax error, unexpected '$_SESSION' (T_VARIABLE) in /home/ameensha1919/public_html/recipe_list.php on line 27
+[08-Apr-2016 04:26:16 UTC] PHP Parse error:  syntax error, unexpected '$_SESSION' (T_VARIABLE) in /home/ameensha1919/public_html/recipe_list.php on line 27
+[08-Apr-2016 04:27:18 UTC] PHP Parse error:  syntax error, unexpected '$_SESSION' (T_VARIABLE) in /home/ameensha1919/public_html/recipe_list.php on line 27
+[08-Apr-2016 04:28:51 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ameensha1919/public_html/recipe_list.php on line 59
+[08-Apr-2016 04:47:24 UTC] PHP Parse error:  syntax error, unexpected '$_SESSION' (T_VARIABLE) in /home/ameensha1919/public_html/recipe_list.php on line 28
+[08-Apr-2016 04:48:35 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/ameensha1919/public_html/recipe_list.php on line 30
+[08-Apr-2016 04:49:03 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/ameensha1919/public_html/recipe_list.php on line 33
+[08-Apr-2016 04:49:23 UTC] PHP Parse error:  syntax error, unexpected '")'>"' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/ameensha1919/public_html/recipe_list.php on line 54
+[08-Apr-2016 05:56:05 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/ameensha1919/public_html/checkemail.php on line 3
+[08-Apr-2016 05:56:06 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/ameensha1919/public_html/checkemail.php on line 3
+[08-Apr-2016 05:56:07 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/ameensha1919/public_html/checkemail.php on line 3
+[08-Apr-2016 05:56:13 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/ameensha1919/public_html/checkuname.php on line 3
+[08-Apr-2016 05:56:13 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/ameensha1919/public_html/checkuname.php on line 3
+[08-Apr-2016 05:56:13 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/ameensha1919/public_html/checkuname.php on line 3
+[08-Apr-2016 06:04:06 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ameensha1919/public_html/checkuname.php on line 12
+[08-Apr-2016 06:04:06 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ameensha1919/public_html/checkuname.php on line 12
+[08-Apr-2016 06:04:06 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ameensha1919/public_html/checkuname.php on line 12
+[08-Apr-2016 06:04:16 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ameensha1919/public_html/checkuname.php on line 12
+[08-Apr-2016 06:04:16 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ameensha1919/public_html/checkuname.php on line 12
+[08-Apr-2016 06:04:17 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ameensha1919/public_html/checkuname.php on line 12
+[08-Apr-2016 06:04:18 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ameensha1919/public_html/checkuname.php on line 12
+[08-Apr-2016 06:04:20 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ameensha1919/public_html/checkuname.php on line 12
+[08-Apr-2016 06:06:03 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ameensha1919/public_html/checkuname.php on line 12
+[08-Apr-2016 06:06:03 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ameensha1919/public_html/checkuname.php on line 12
+[08-Apr-2016 06:06:03 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ameensha1919/public_html/checkuname.php on line 12
+[08-Apr-2016 06:06:06 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ameensha1919/public_html/checkuname.php on line 12
+[08-Apr-2016 06:06:06 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ameensha1919/public_html/checkuname.php on line 12
+[08-Apr-2016 06:06:16 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ameensha1919/public_html/checkemail.php on line 12
+[08-Apr-2016 06:19:15 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ameensha1919/public_html/checkemail.php on line 12
+[08-Apr-2016 06:23:17 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ameensha1919/public_html/checkuname.php on line 12
+[08-Apr-2016 06:23:17 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ameensha1919/public_html/checkuname.php on line 12
+[08-Apr-2016 06:23:17 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ameensha1919/public_html/checkuname.php on line 12
+[08-Apr-2016 06:24:22 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ameensha1919/public_html/checkuname.php on line 12
+[08-Apr-2016 06:24:22 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ameensha1919/public_html/checkuname.php on line 12
+[08-Apr-2016 06:24:22 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ameensha1919/public_html/checkuname.php on line 12
+[08-Apr-2016 06:24:39 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ameensha1919/public_html/checkuname.php on line 12
+[08-Apr-2016 06:24:39 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ameensha1919/public_html/checkuname.php on line 12
+[08-Apr-2016 06:24:39 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ameensha1919/public_html/checkuname.php on line 12
+[08-Apr-2016 06:24:39 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ameensha1919/public_html/checkuname.php on line 12
+[08-Apr-2016 06:24:39 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ameensha1919/public_html/checkuname.php on line 12
+[08-Apr-2016 06:24:41 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ameensha1919/public_html/checkuname.php on line 12
+[08-Apr-2016 06:24:41 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ameensha1919/public_html/checkuname.php on line 12
+[08-Apr-2016 06:24:41 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ameensha1919/public_html/checkuname.php on line 12
+[08-Apr-2016 06:24:41 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ameensha1919/public_html/checkuname.php on line 12
+[08-Apr-2016 06:24:41 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ameensha1919/public_html/checkuname.php on line 12
+[08-Apr-2016 06:24:42 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ameensha1919/public_html/checkuname.php on line 12
+[08-Apr-2016 06:24:42 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ameensha1919/public_html/checkuname.php on line 12
+[08-Apr-2016 06:24:42 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ameensha1919/public_html/checkuname.php on line 12
+[08-Apr-2016 06:24:42 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ameensha1919/public_html/checkuname.php on line 12
+[08-Apr-2016 06:24:42 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ameensha1919/public_html/checkuname.php on line 12
+[08-Apr-2016 06:24:42 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ameensha1919/public_html/checkuname.php on line 12
+[08-Apr-2016 06:24:42 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ameensha1919/public_html/checkuname.php on line 12
+[08-Apr-2016 06:24:52 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ameensha1919/public_html/checkuname.php on line 12
+[08-Apr-2016 06:24:52 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ameensha1919/public_html/checkuname.php on line 12
+[08-Apr-2016 06:24:52 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ameensha1919/public_html/checkuname.php on line 12
+[08-Apr-2016 06:24:52 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ameensha1919/public_html/checkuname.php on line 12
+[08-Apr-2016 06:24:52 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ameensha1919/public_html/checkuname.php on line 12
+[08-Apr-2016 06:24:53 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ameensha1919/public_html/checkuname.php on line 12
+[08-Apr-2016 06:24:53 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ameensha1919/public_html/checkuname.php on line 12
+[08-Apr-2016 06:24:53 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ameensha1919/public_html/checkuname.php on line 12
+[08-Apr-2016 06:24:53 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ameensha1919/public_html/checkuname.php on line 12
+[08-Apr-2016 06:24:53 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ameensha1919/public_html/checkuname.php on line 12
+[08-Apr-2016 06:24:53 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ameensha1919/public_html/checkuname.php on line 12
+[08-Apr-2016 06:24:53 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ameensha1919/public_html/checkuname.php on line 12
+[08-Apr-2016 06:25:37 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ameensha1919/public_html/checkuname.php on line 12
+[08-Apr-2016 06:25:37 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ameensha1919/public_html/checkuname.php on line 12
+[08-Apr-2016 06:25:37 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ameensha1919/public_html/checkuname.php on line 12
+[08-Apr-2016 06:26:05 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/ameensha1919/public_html/check.php on line 10
+[08-Apr-2016 06:26:46 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/ameensha1919/public_html/check.php on line 10
+[08-Apr-2016 06:27:07 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ';' in /home/ameensha1919/public_html/check.php on line 12
+[08-Apr-2016 06:27:39 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/ameensha1919/public_html/check.php on line 11
+[08-Apr-2016 06:31:06 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'ameensha_matt'@'localhost' to database 'ameensha_users' in /home/ameensha1919/public_html/check.php on line 3
+[08-Apr-2016 06:31:06 UTC] PHP Fatal error:  Call to a member function query() on boolean in /home/ameensha1919/public_html/check.php on line 7
+[08-Apr-2016 06:34:51 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'ameensha_matt'@'localhost' to database 'ameensha_users' in /home/ameensha1919/public_html/check.php on line 3
+[08-Apr-2016 06:34:51 UTC] PHP Fatal error:  Call to a member function query() on boolean in /home/ameensha1919/public_html/check.php on line 7
+[08-Apr-2016 06:36:35 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'ameensha_ameen'@'localhost' to database 'ameensha_users' in /home/ameensha1919/public_html/check.php on line 3
+[08-Apr-2016 06:36:35 UTC] PHP Fatal error:  Call to a member function query() on boolean in /home/ameensha1919/public_html/check.php on line 7
+[08-Apr-2016 06:38:32 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ameen'@'localhost' (using password: YES) in /home/ameensha1919/public_html/check.php on line 3
+[08-Apr-2016 06:38:32 UTC] PHP Fatal error:  Call to a member function query() on boolean in /home/ameensha1919/public_html/check.php on line 7
+[08-Apr-2016 08:05:22 UTC] PHP Warning:  mysql_connect(): Access denied for user 'ameensha_matt'@'localhost' (using password: YES) in /home/ameensha1919/public_html/checkuname.php on line 3
+[08-Apr-2016 08:05:22 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ameensha1919/public_html/checkuname.php on line 9
+[08-Apr-2016 08:05:22 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ameensha1919/public_html/checkuname.php on line 9
+[08-Apr-2016 08:05:22 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ameensha1919/public_html/checkuname.php on line 12
+[08-Apr-2016 08:05:22 UTC] PHP Warning:  mysql_connect(): Access denied for user 'ameensha_matt'@'localhost' (using password: YES) in /home/ameensha1919/public_html/checkuname.php on line 3
+[08-Apr-2016 08:05:22 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ameensha1919/public_html/checkuname.php on line 9
+[08-Apr-2016 08:05:22 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ameensha1919/public_html/checkuname.php on line 9
+[08-Apr-2016 08:05:22 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ameensha1919/public_html/checkuname.php on line 12
+[08-Apr-2016 08:05:22 UTC] PHP Warning:  mysql_connect(): Access denied for user 'ameensha_matt'@'localhost' (using password: YES) in /home/ameensha1919/public_html/checkuname.php on line 3
+[08-Apr-2016 08:05:22 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ameensha1919/public_html/checkuname.php on line 9
+[08-Apr-2016 08:05:22 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ameensha1919/public_html/checkuname.php on line 9
+[08-Apr-2016 08:05:22 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ameensha1919/public_html/checkuname.php on line 12
+[08-Apr-2016 08:05:23 UTC] PHP Warning:  mysql_connect(): Access denied for user 'ameensha_matt'@'localhost' (using password: YES) in /home/ameensha1919/public_html/checkuname.php on line 3
+[08-Apr-2016 08:05:23 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ameensha1919/public_html/checkuname.php on line 9
+[08-Apr-2016 08:05:23 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ameensha1919/public_html/checkuname.php on line 9
+[08-Apr-2016 08:05:23 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ameensha1919/public_html/checkuname.php on line 12
+[08-Apr-2016 08:05:23 UTC] PHP Warning:  mysql_connect(): Access denied for user 'ameensha_matt'@'localhost' (using password: YES) in /home/ameensha1919/public_html/checkuname.php on line 3
+[08-Apr-2016 08:05:23 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ameensha1919/public_html/checkuname.php on line 9
+[08-Apr-2016 08:05:23 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ameensha1919/public_html/checkuname.php on line 9
+[08-Apr-2016 08:05:23 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ameensha1919/public_html/checkuname.php on line 12
+[08-Apr-2016 08:05:23 UTC] PHP Warning:  mysql_connect(): Access denied for user 'ameensha_matt'@'localhost' (using password: YES) in /home/ameensha1919/public_html/checkuname.php on line 3
+[08-Apr-2016 08:05:23 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ameensha1919/public_html/checkuname.php on line 9
+[08-Apr-2016 08:05:23 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ameensha1919/public_html/checkuname.php on line 9
+[08-Apr-2016 08:05:23 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ameensha1919/public_html/checkuname.php on line 12
+[08-Apr-2016 08:05:23 UTC] PHP Warning:  mysql_connect(): Access denied for user 'ameensha_matt'@'localhost' (using password: YES) in /home/ameensha1919/public_html/checkuname.php on line 3
+[08-Apr-2016 08:05:23 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ameensha1919/public_html/checkuname.php on line 9
+[08-Apr-2016 08:05:23 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ameensha1919/public_html/checkuname.php on line 9
+[08-Apr-2016 08:05:23 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ameensha1919/public_html/checkuname.php on line 12
+[08-Apr-2016 08:05:24 UTC] PHP Warning:  mysql_connect(): Access denied for user 'ameensha_matt'@'localhost' (using password: YES) in /home/ameensha1919/public_html/checkuname.php on line 3
+[08-Apr-2016 08:05:24 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ameensha1919/public_html/checkuname.php on line 9
+[08-Apr-2016 08:05:24 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ameensha1919/public_html/checkuname.php on line 9
+[08-Apr-2016 08:05:24 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ameensha1919/public_html/checkuname.php on line 12
+[08-Apr-2016 08:05:29 UTC] PHP Warning:  mysql_connect(): Access denied for user 'ameensha_matt'@'localhost' (using password: YES) in /home/ameensha1919/public_html/checkemail.php on line 3
+[08-Apr-2016 08:05:29 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ameensha1919/public_html/checkemail.php on line 9
+[08-Apr-2016 08:05:29 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ameensha1919/public_html/checkemail.php on line 9
+[08-Apr-2016 08:05:29 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ameensha1919/public_html/checkemail.php on line 12
+[08-Apr-2016 08:05:29 UTC] PHP Warning:  mysql_connect(): Access denied for user 'ameensha_matt'@'localhost' (using password: YES) in /home/ameensha1919/public_html/checkemail.php on line 3
+[08-Apr-2016 08:05:29 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ameensha1919/public_html/checkemail.php on line 9
+[08-Apr-2016 08:05:29 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ameensha1919/public_html/checkemail.php on line 9
+[08-Apr-2016 08:05:29 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ameensha1919/public_html/checkemail.php on line 12
+[08-Apr-2016 08:05:29 UTC] PHP Warning:  mysql_connect(): Access denied for user 'ameensha_matt'@'localhost' (using password: YES) in /home/ameensha1919/public_html/checkemail.php on line 3
+[08-Apr-2016 08:05:29 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ameensha1919/public_html/checkemail.php on line 9
+[08-Apr-2016 08:05:29 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ameensha1919/public_html/checkemail.php on line 9
+[08-Apr-2016 08:05:29 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ameensha1919/public_html/checkemail.php on line 12
+[08-Apr-2016 08:05:37 UTC] PHP Warning:  mysql_connect(): Access denied for user 'ameensha_matt'@'localhost' (using password: YES) in /home/ameensha1919/public_html/checkemail.php on line 3
+[08-Apr-2016 08:05:37 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ameensha1919/public_html/checkemail.php on line 9
+[08-Apr-2016 08:05:37 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ameensha1919/public_html/checkemail.php on line 9
+[08-Apr-2016 08:05:37 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ameensha1919/public_html/checkemail.php on line 12
+[08-Apr-2016 08:05:37 UTC] PHP Warning:  mysql_connect(): Access denied for user 'ameensha_matt'@'localhost' (using password: YES) in /home/ameensha1919/public_html/checkemail.php on line 3
+[08-Apr-2016 08:05:37 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ameensha1919/public_html/checkemail.php on line 9
+[08-Apr-2016 08:05:37 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ameensha1919/public_html/checkemail.php on line 9
+[08-Apr-2016 08:05:37 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ameensha1919/public_html/checkemail.php on line 12
+[08-Apr-2016 08:05:37 UTC] PHP Warning:  mysql_connect(): Access denied for user 'ameensha_matt'@'localhost' (using password: YES) in /home/ameensha1919/public_html/checkemail.php on line 3
+[08-Apr-2016 08:05:37 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ameensha1919/public_html/checkemail.php on line 9
+[08-Apr-2016 08:05:37 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ameensha1919/public_html/checkemail.php on line 9
+[08-Apr-2016 08:05:37 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ameensha1919/public_html/checkemail.php on line 12
+[08-Apr-2016 08:05:39 UTC] PHP Warning:  mysql_connect(): Access denied for user 'ameensha_matt'@'localhost' (using password: YES) in /home/ameensha1919/public_html/checkemail.php on line 3
+[08-Apr-2016 08:05:39 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ameensha1919/public_html/checkemail.php on line 9
+[08-Apr-2016 08:05:39 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ameensha1919/public_html/checkemail.php on line 9
+[08-Apr-2016 08:05:39 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ameensha1919/public_html/checkemail.php on line 12
+[08-Apr-2016 08:05:39 UTC] PHP Warning:  mysql_connect(): Access denied for user 'ameensha_matt'@'localhost' (using password: YES) in /home/ameensha1919/public_html/checkemail.php on line 3
+[08-Apr-2016 08:05:39 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ameensha1919/public_html/checkemail.php on line 9
+[08-Apr-2016 08:05:39 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ameensha1919/public_html/checkemail.php on line 9
+[08-Apr-2016 08:05:39 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ameensha1919/public_html/checkemail.php on line 12
+[08-Apr-2016 08:05:40 UTC] PHP Warning:  mysql_connect(): Access denied for user 'ameensha_matt'@'localhost' (using password: YES) in /home/ameensha1919/public_html/checkemail.php on line 3
+[08-Apr-2016 08:05:40 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ameensha1919/public_html/checkemail.php on line 9
+[08-Apr-2016 08:05:40 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ameensha1919/public_html/checkemail.php on line 9
+[08-Apr-2016 08:05:40 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ameensha1919/public_html/checkemail.php on line 12
+[08-Apr-2016 08:05:40 UTC] PHP Warning:  mysql_connect(): Access denied for user 'ameensha_matt'@'localhost' (using password: YES) in /home/ameensha1919/public_html/checkemail.php on line 3
+[08-Apr-2016 08:05:40 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ameensha1919/public_html/checkemail.php on line 9
+[08-Apr-2016 08:05:40 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ameensha1919/public_html/checkemail.php on line 9
+[08-Apr-2016 08:05:40 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ameensha1919/public_html/checkemail.php on line 12
+[08-Apr-2016 08:05:41 UTC] PHP Warning:  mysql_connect(): Access denied for user 'ameensha_matt'@'localhost' (using password: YES) in /home/ameensha1919/public_html/checkemail.php on line 3
+[08-Apr-2016 08:05:41 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ameensha1919/public_html/checkemail.php on line 9
+[08-Apr-2016 08:05:41 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ameensha1919/public_html/checkemail.php on line 9
+[08-Apr-2016 08:05:41 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ameensha1919/public_html/checkemail.php on line 12
+[08-Apr-2016 08:05:41 UTC] PHP Warning:  mysql_connect(): Access denied for user 'ameensha_matt'@'localhost' (using password: YES) in /home/ameensha1919/public_html/checkemail.php on line 3
+[08-Apr-2016 08:05:41 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ameensha1919/public_html/checkemail.php on line 9
+[08-Apr-2016 08:05:41 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ameensha1919/public_html/checkemail.php on line 9
+[08-Apr-2016 08:05:41 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ameensha1919/public_html/checkemail.php on line 12
+[08-Apr-2016 08:05:41 UTC] PHP Warning:  mysql_connect(): Access denied for user 'ameensha_matt'@'localhost' (using password: YES) in /home/ameensha1919/public_html/checkemail.php on line 3
+[08-Apr-2016 08:05:41 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ameensha1919/public_html/checkemail.php on line 9
+[08-Apr-2016 08:05:41 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ameensha1919/public_html/checkemail.php on line 9
+[08-Apr-2016 08:05:41 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ameensha1919/public_html/checkemail.php on line 12
+[08-Apr-2016 08:05:41 UTC] PHP Warning:  mysql_connect(): Access denied for user 'ameensha_matt'@'localhost' (using password: YES) in /home/ameensha1919/public_html/checkemail.php on line 3
+[08-Apr-2016 08:05:41 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ameensha1919/public_html/checkemail.php on line 9
+[08-Apr-2016 08:05:41 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ameensha1919/public_html/checkemail.php on line 9
+[08-Apr-2016 08:05:41 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ameensha1919/public_html/checkemail.php on line 12
+[08-Apr-2016 08:05:42 UTC] PHP Warning:  mysql_connect(): Access denied for user 'ameensha_matt'@'localhost' (using password: YES) in /home/ameensha1919/public_html/checkemail.php on line 3
+[08-Apr-2016 08:05:42 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ameensha1919/public_html/checkemail.php on line 9
+[08-Apr-2016 08:05:42 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ameensha1919/public_html/checkemail.php on line 9
+[08-Apr-2016 08:05:42 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ameensha1919/public_html/checkemail.php on line 12
+[08-Apr-2016 08:05:42 UTC] PHP Warning:  mysql_connect(): Access denied for user 'ameensha_matt'@'localhost' (using password: YES) in /home/ameensha1919/public_html/checkemail.php on line 3
+[08-Apr-2016 08:05:42 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ameensha1919/public_html/checkemail.php on line 9
+[08-Apr-2016 08:05:42 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ameensha1919/public_html/checkemail.php on line 9
+[08-Apr-2016 08:05:42 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ameensha1919/public_html/checkemail.php on line 12
+[08-Apr-2016 08:05:44 UTC] PHP Warning:  mysql_connect(): Access denied for user 'ameensha_matt'@'localhost' (using password: YES) in /home/ameensha1919/public_html/checkemail.php on line 3
+[08-Apr-2016 08:05:44 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ameensha1919/public_html/checkemail.php on line 9
+[08-Apr-2016 08:05:44 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ameensha1919/public_html/checkemail.php on line 9
+[08-Apr-2016 08:05:44 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ameensha1919/public_html/checkemail.php on line 12
+[08-Apr-2016 08:05:46 UTC] PHP Warning:  mysql_connect(): Access denied for user 'ameensha_matt'@'localhost' (using password: YES) in /home/ameensha1919/public_html/checkemail.php on line 3
+[08-Apr-2016 08:05:46 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ameensha1919/public_html/checkemail.php on line 9
+[08-Apr-2016 08:05:46 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ameensha1919/public_html/checkemail.php on line 9
+[08-Apr-2016 08:05:46 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ameensha1919/public_html/checkemail.php on line 12
+[08-Apr-2016 08:06:16 UTC] PHP Warning:  mysql_connect(): Access denied for user 'ameensha_matt'@'localhost' (using password: YES) in /home/ameensha1919/public_html/checkemail.php on line 3
+[08-Apr-2016 08:06:16 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ameensha1919/public_html/checkemail.php on line 9
+[08-Apr-2016 08:06:16 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ameensha1919/public_html/checkemail.php on line 9
+[08-Apr-2016 08:06:16 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ameensha1919/public_html/checkemail.php on line 12
+[08-Apr-2016 08:06:17 UTC] PHP Warning:  mysql_connect(): Access denied for user 'ameensha_matt'@'localhost' (using password: YES) in /home/ameensha1919/public_html/checkemail.php on line 3
+[08-Apr-2016 08:06:17 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ameensha1919/public_html/checkemail.php on line 9
+[08-Apr-2016 08:06:17 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ameensha1919/public_html/checkemail.php on line 9
+[08-Apr-2016 08:06:17 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ameensha1919/public_html/checkemail.php on line 12
+[08-Apr-2016 08:06:17 UTC] PHP Warning:  mysql_connect(): Access denied for user 'ameensha_matt'@'localhost' (using password: YES) in /home/ameensha1919/public_html/checkemail.php on line 3
+[08-Apr-2016 08:06:17 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ameensha1919/public_html/checkemail.php on line 9
+[08-Apr-2016 08:06:17 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ameensha1919/public_html/checkemail.php on line 9
+[08-Apr-2016 08:06:17 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ameensha1919/public_html/checkemail.php on line 12
+[08-Apr-2016 08:06:17 UTC] PHP Warning:  mysql_connect(): Access denied for user 'ameensha_matt'@'localhost' (using password: YES) in /home/ameensha1919/public_html/checkemail.php on line 3
+[08-Apr-2016 08:06:17 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ameensha1919/public_html/checkemail.php on line 9
+[08-Apr-2016 08:06:17 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ameensha1919/public_html/checkemail.php on line 9
+[08-Apr-2016 08:06:17 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ameensha1919/public_html/checkemail.php on line 12
+[08-Apr-2016 08:06:17 UTC] PHP Warning:  mysql_connect(): Access denied for user 'ameensha_matt'@'localhost' (using password: YES) in /home/ameensha1919/public_html/checkemail.php on line 3
+[08-Apr-2016 08:06:17 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ameensha1919/public_html/checkemail.php on line 9
+[08-Apr-2016 08:06:17 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ameensha1919/public_html/checkemail.php on line 9
+[08-Apr-2016 08:06:17 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ameensha1919/public_html/checkemail.php on line 12
+[08-Apr-2016 08:06:43 UTC] PHP Warning:  mysql_connect(): Access denied for user 'ameensha_matt'@'localhost' (using password: YES) in /home/ameensha1919/public_html/checkemail.php on line 3
+[08-Apr-2016 08:06:43 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ameensha1919/public_html/checkemail.php on line 9
+[08-Apr-2016 08:06:43 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ameensha1919/public_html/checkemail.php on line 9
+[08-Apr-2016 08:06:43 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ameensha1919/public_html/checkemail.php on line 12
+[08-Apr-2016 08:08:07 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'ameensha_matt'@'localhost' to database 'beerherebeerthere_com_-_ameensha_users' in /home/ameensha1919/public_html/check.php on line 3
+[08-Apr-2016 08:08:07 UTC] PHP Fatal error:  Call to a member function query() on boolean in /home/ameensha1919/public_html/check.php on line 7
+[08-Apr-2016 08:10:21 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'ameensha_matt'@'localhost' to database 'ameensha_users' in /home/ameensha1919/public_html/check.php on line 3
+[08-Apr-2016 08:10:21 UTC] PHP Fatal error:  Call to a member function query() on boolean in /home/ameensha1919/public_html/check.php on line 7
+[08-Apr-2016 08:14:32 UTC] PHP Warning:  mysql_connect(): Access denied for user 'ameensha_matt'@'localhost' (using password: YES) in /home/ameensha1919/public_html/checkuname.php on line 3
+[08-Apr-2016 08:14:32 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ameensha1919/public_html/checkuname.php on line 9
+[08-Apr-2016 08:14:32 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ameensha1919/public_html/checkuname.php on line 9
+[08-Apr-2016 08:14:32 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ameensha1919/public_html/checkuname.php on line 12
+[08-Apr-2016 08:14:32 UTC] PHP Warning:  mysql_connect(): Access denied for user 'ameensha_matt'@'localhost' (using password: YES) in /home/ameensha1919/public_html/checkuname.php on line 3
+[08-Apr-2016 08:14:32 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ameensha1919/public_html/checkuname.php on line 9
+[08-Apr-2016 08:14:32 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ameensha1919/public_html/checkuname.php on line 9
+[08-Apr-2016 08:14:32 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ameensha1919/public_html/checkuname.php on line 12
+[08-Apr-2016 08:15:06 UTC] PHP Warning:  mysql_connect(): Access denied for user 'ameensha_matt'@'localhost' (using password: YES) in /home/ameensha1919/public_html/checkuname.php on line 3
+[08-Apr-2016 08:15:06 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ameensha1919/public_html/checkuname.php on line 9
+[08-Apr-2016 08:15:06 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ameensha1919/public_html/checkuname.php on line 9
+[08-Apr-2016 08:15:06 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ameensha1919/public_html/checkuname.php on line 12
+[08-Apr-2016 08:15:06 UTC] PHP Warning:  mysql_connect(): Access denied for user 'ameensha_matt'@'localhost' (using password: YES) in /home/ameensha1919/public_html/checkuname.php on line 3
+[08-Apr-2016 08:15:06 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ameensha1919/public_html/checkuname.php on line 9
+[08-Apr-2016 08:15:06 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ameensha1919/public_html/checkuname.php on line 9
+[08-Apr-2016 08:15:06 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ameensha1919/public_html/checkuname.php on line 12
+[08-Apr-2016 08:15:07 UTC] PHP Warning:  mysql_connect(): Access denied for user 'ameensha_matt'@'localhost' (using password: YES) in /home/ameensha1919/public_html/checkuname.php on line 3
+[08-Apr-2016 08:15:07 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ameensha1919/public_html/checkuname.php on line 9
+[08-Apr-2016 08:15:07 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ameensha1919/public_html/checkuname.php on line 9
+[08-Apr-2016 08:15:07 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ameensha1919/public_html/checkuname.php on line 12
+[08-Apr-2016 08:15:07 UTC] PHP Warning:  mysql_connect(): Access denied for user 'ameensha_matt'@'localhost' (using password: YES) in /home/ameensha1919/public_html/checkemail.php on line 3
+[08-Apr-2016 08:15:07 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ameensha1919/public_html/checkemail.php on line 9
+[08-Apr-2016 08:15:07 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ameensha1919/public_html/checkemail.php on line 9
+[08-Apr-2016 08:15:07 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ameensha1919/public_html/checkemail.php on line 12
+[08-Apr-2016 08:15:09 UTC] PHP Warning:  mysql_connect(): Access denied for user 'ameensha_matt'@'localhost' (using password: YES) in /home/ameensha1919/public_html/checkemail.php on line 3
+[08-Apr-2016 08:15:09 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ameensha1919/public_html/checkemail.php on line 9
+[08-Apr-2016 08:15:09 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ameensha1919/public_html/checkemail.php on line 9
+[08-Apr-2016 08:15:09 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ameensha1919/public_html/checkemail.php on line 12
+[08-Apr-2016 08:15:10 UTC] PHP Warning:  mysql_connect(): Access denied for user 'ameensha_matt'@'localhost' (using password: YES) in /home/ameensha1919/public_html/checkemail.php on line 3
+[08-Apr-2016 08:15:10 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ameensha1919/public_html/checkemail.php on line 9
+[08-Apr-2016 08:15:10 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ameensha1919/public_html/checkemail.php on line 9
+[08-Apr-2016 08:15:10 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ameensha1919/public_html/checkemail.php on line 12
+[08-Apr-2016 08:15:11 UTC] PHP Warning:  mysql_connect(): Access denied for user 'ameensha_matt'@'localhost' (using password: YES) in /home/ameensha1919/public_html/checkemail.php on line 3
+[08-Apr-2016 08:15:11 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ameensha1919/public_html/checkemail.php on line 9
+[08-Apr-2016 08:15:11 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ameensha1919/public_html/checkemail.php on line 9
+[08-Apr-2016 08:15:11 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ameensha1919/public_html/checkemail.php on line 12
+[08-Apr-2016 08:20:08 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ameensha1919/public_html/checkuname.php on line 12
+[08-Apr-2016 08:20:08 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ameensha1919/public_html/checkuname.php on line 12
+[08-Apr-2016 08:20:08 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ameensha1919/public_html/checkuname.php on line 12
+[08-Apr-2016 08:22:14 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ameensha1919/public_html/checkuname.php on line 12
+[08-Apr-2016 08:22:14 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ameensha1919/public_html/checkuname.php on line 12
+[08-Apr-2016 08:22:15 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ameensha1919/public_html/checkuname.php on line 12
+[08-Apr-2016 08:22:22 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ameensha1919/public_html/checkuname.php on line 12
+[08-Apr-2016 08:22:22 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ameensha1919/public_html/checkuname.php on line 12
+[08-Apr-2016 08:23:58 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ameensha1919/public_html/checkuname.php on line 12
+[08-Apr-2016 08:23:59 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ameensha1919/public_html/checkuname.php on line 12
+[08-Apr-2016 08:23:59 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ameensha1919/public_html/checkuname.php on line 12
+[08-Apr-2016 08:25:49 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ameensha1919/public_html/checkemail.php on line 12
+[08-Apr-2016 08:26:20 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ameensha1919/public_html/checkuname.php on line 12
+[08-Apr-2016 08:26:20 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ameensha1919/public_html/checkuname.php on line 12
+[08-Apr-2016 08:26:20 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ameensha1919/public_html/checkuname.php on line 12
+[08-Apr-2016 08:26:42 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ameensha1919/public_html/checkuname.php on line 12
+[08-Apr-2016 08:26:42 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ameensha1919/public_html/checkuname.php on line 12
+[08-Apr-2016 08:26:42 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ameensha1919/public_html/checkuname.php on line 12
+[08-Apr-2016 08:27:07 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ameensha1919/public_html/checkuname.php on line 12
+[08-Apr-2016 08:27:07 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ameensha1919/public_html/checkuname.php on line 12
+[08-Apr-2016 08:27:07 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ameensha1919/public_html/checkuname.php on line 12
+[08-Apr-2016 08:27:28 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ameensha1919/public_html/checkuname.php on line 12
+[08-Apr-2016 08:27:28 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ameensha1919/public_html/checkuname.php on line 12
+[08-Apr-2016 08:27:29 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ameensha1919/public_html/checkuname.php on line 12
+[08-Apr-2016 08:31:42 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ameensha1919/public_html/checkuname.php on line 12
+[08-Apr-2016 08:31:42 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ameensha1919/public_html/checkuname.php on line 12
+[08-Apr-2016 08:31:43 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ameensha1919/public_html/checkuname.php on line 12
+[08-Apr-2016 08:32:05 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ameensha1919/public_html/checkuname.php on line 12
+[08-Apr-2016 08:32:07 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ameensha1919/public_html/checkuname.php on line 12
+[08-Apr-2016 08:33:06 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ameensha1919/public_html/checkuname.php on line 12
+[08-Apr-2016 08:33:07 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ameensha1919/public_html/checkuname.php on line 12
+[08-Apr-2016 08:33:09 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ameensha1919/public_html/checkuname.php on line 12
+[08-Apr-2016 08:33:09 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ameensha1919/public_html/checkuname.php on line 12
+[08-Apr-2016 08:35:10 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ameensha1919/public_html/checkuname.php on line 12
+[08-Apr-2016 08:35:10 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ameensha1919/public_html/checkuname.php on line 12
+[08-Apr-2016 08:35:10 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ameensha1919/public_html/checkuname.php on line 12
+[08-Apr-2016 08:38:54 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ameensha1919/public_html/checkuname.php on line 12
+[08-Apr-2016 08:38:54 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ameensha1919/public_html/checkuname.php on line 12
+[08-Apr-2016 08:38:54 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ameensha1919/public_html/checkuname.php on line 12
+[08-Apr-2016 08:39:44 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ameensha1919/public_html/checkuname.php on line 12
+[08-Apr-2016 08:39:44 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ameensha1919/public_html/checkuname.php on line 12
+[08-Apr-2016 08:39:49 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ameensha1919/public_html/checkuname.php on line 12
+[08-Apr-2016 08:39:50 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ameensha1919/public_html/checkuname.php on line 12
+[08-Apr-2016 08:39:53 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ameensha1919/public_html/checkuname.php on line 12
+[08-Apr-2016 08:39:54 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ameensha1919/public_html/checkuname.php on line 12
+[08-Apr-2016 08:39:54 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ameensha1919/public_html/checkuname.php on line 12
+[08-Apr-2016 08:44:31 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/ameensha1919/public_html/checkuname.php on line 9
+[08-Apr-2016 08:44:31 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/ameensha1919/public_html/checkuname.php on line 9
+[08-Apr-2016 08:44:31 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/ameensha1919/public_html/checkuname.php on line 9
+[08-Apr-2016 08:48:53 UTC] PHP Fatal error:  Call to a member function query() on resource in /home/ameensha1919/public_html/checkuname.php on line 9
+[08-Apr-2016 08:48:53 UTC] PHP Fatal error:  Call to a member function query() on resource in /home/ameensha1919/public_html/checkuname.php on line 9
+[08-Apr-2016 08:48:53 UTC] PHP Fatal error:  Call to a member function query() on resource in /home/ameensha1919/public_html/checkuname.php on line 9
+[08-Apr-2016 08:48:56 UTC] PHP Fatal error:  Call to a member function query() on resource in /home/ameensha1919/public_html/checkuname.php on line 9
+[08-Apr-2016 08:50:03 UTC] PHP Fatal error:  Call to a member function query() on resource in /home/ameensha1919/public_html/checkuname.php on line 9
+[08-Apr-2016 08:50:04 UTC] PHP Fatal error:  Call to a member function query() on resource in /home/ameensha1919/public_html/checkuname.php on line 9
+[08-Apr-2016 10:57:21 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ameensha1919/public_html/check.php on line 28
+[08-Apr-2016 10:57:46 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ameensha1919/public_html/check.php on line 28
+[08-Apr-2016 11:18:45 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'ameensha_matt'@'localhost' to database 'beerherebeerthere_com_-_ameensha_users' in /home/ameensha1919/public_html/check.php on line 3
+[08-Apr-2016 11:18:45 UTC] PHP Fatal error:  Call to a member function query() on boolean in /home/ameensha1919/public_html/check.php on line 8
+[08-Apr-2016 11:20:41 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'ameensha_matt'@'localhost' to database 'beerherebeerthere_com_-_ameensha_users' in /home/ameensha1919/public_html/check.php on line 3
+[08-Apr-2016 11:20:41 UTC] PHP Fatal error:  Call to a member function query() on boolean in /home/ameensha1919/public_html/check.php on line 8
+[08-Apr-2016 11:26:20 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/ameensha1919/public_html/checkuname.php on line 9
+[08-Apr-2016 11:26:20 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/ameensha1919/public_html/checkuname.php on line 9
+[08-Apr-2016 11:26:21 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/ameensha1919/public_html/checkuname.php on line 9
+[08-Apr-2016 11:26:21 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/ameensha1919/public_html/checkemail.php on line 9
+[08-Apr-2016 11:26:43 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/ameensha1919/public_html/checkuname.php on line 9
+[08-Apr-2016 11:26:43 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/ameensha1919/public_html/checkuname.php on line 9
+[08-Apr-2016 11:26:43 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/ameensha1919/public_html/checkuname.php on line 9
+[08-Apr-2016 11:30:07 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/ameensha1919/public_html/checkemail.php on line 9
+[08-Apr-2016 11:30:32 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/ameensha1919/public_html/checkuname.php on line 9
+[08-Apr-2016 11:30:32 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/ameensha1919/public_html/checkuname.php on line 9
+[08-Apr-2016 11:30:32 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/ameensha1919/public_html/checkuname.php on line 9
+[08-Apr-2016 11:43:58 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/ameensha1919/public_html/checkuname.php on line 9
+[08-Apr-2016 11:43:58 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/ameensha1919/public_html/checkuname.php on line 9
+[08-Apr-2016 11:43:59 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/ameensha1919/public_html/checkuname.php on line 9
+[08-Apr-2016 11:43:59 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/ameensha1919/public_html/checkemail.php on line 9
+[08-Apr-2016 11:52:10 UTC] PHP Fatal error:  Call to undefined function mssql_connect() in /home/ameensha1919/public_html/checkuname.php on line 3
+[08-Apr-2016 11:52:10 UTC] PHP Fatal error:  Call to undefined function mssql_connect() in /home/ameensha1919/public_html/checkuname.php on line 3
+[08-Apr-2016 11:52:10 UTC] PHP Fatal error:  Call to undefined function mssql_connect() in /home/ameensha1919/public_html/checkuname.php on line 3
+[08-Apr-2016 11:52:12 UTC] PHP Fatal error:  Call to undefined function mssql_connect() in /home/ameensha1919/public_html/checkemail.php on line 3
+[08-Apr-2016 11:52:50 UTC] PHP Fatal error:  Call to undefined function mssql_connect() in /home/ameensha1919/public_html/check.php on line 3
+[08-Apr-2016 11:53:09 UTC] PHP Fatal error:  Call to undefined function mssql_connect() in /home/ameensha1919/public_html/checkuname.php on line 3
+[08-Apr-2016 11:53:09 UTC] PHP Fatal error:  Call to undefined function mssql_connect() in /home/ameensha1919/public_html/checkuname.php on line 3
+[08-Apr-2016 11:53:10 UTC] PHP Fatal error:  Call to undefined function mssql_connect() in /home/ameensha1919/public_html/checkuname.php on line 3
+[08-Apr-2016 11:53:11 UTC] PHP Fatal error:  Call to undefined function mssql_connect() in /home/ameensha1919/public_html/checkuname.php on line 3
+[08-Apr-2016 11:53:12 UTC] PHP Fatal error:  Call to undefined function mssql_connect() in /home/ameensha1919/public_html/checkuname.php on line 3
+[08-Apr-2016 11:53:14 UTC] PHP Fatal error:  Call to undefined function mssql_connect() in /home/ameensha1919/public_html/checkuname.php on line 3
+[08-Apr-2016 11:53:15 UTC] PHP Fatal error:  Call to undefined function mssql_connect() in /home/ameensha1919/public_html/checkuname.php on line 3
+[08-Apr-2016 11:53:15 UTC] PHP Fatal error:  Call to undefined function mssql_connect() in /home/ameensha1919/public_html/checkuname.php on line 3
+[08-Apr-2016 11:53:16 UTC] PHP Fatal error:  Call to undefined function mssql_connect() in /home/ameensha1919/public_html/checkemail.php on line 3
+[08-Apr-2016 11:53:25 UTC] PHP Fatal error:  Call to undefined function mssql_connect() in /home/ameensha1919/public_html/checkemail.php on line 3
+[08-Apr-2016 11:53:27 UTC] PHP Fatal error:  Call to undefined function mssql_connect() in /home/ameensha1919/public_html/checkemail.php on line 3
+[08-Apr-2016 11:53:28 UTC] PHP Fatal error:  Call to undefined function mssql_connect() in /home/ameensha1919/public_html/checkemail.php on line 3
+[08-Apr-2016 11:53:30 UTC] PHP Fatal error:  Call to undefined function mssql_connect() in /home/ameensha1919/public_html/checkemail.php on line 3
+[08-Apr-2016 11:53:30 UTC] PHP Fatal error:  Call to undefined function mssql_connect() in /home/ameensha1919/public_html/checkemail.php on line 3
+[08-Apr-2016 11:53:30 UTC] PHP Fatal error:  Call to undefined function mssql_connect() in /home/ameensha1919/public_html/checkemail.php on line 3
+[08-Apr-2016 11:53:31 UTC] PHP Fatal error:  Call to undefined function mssql_connect() in /home/ameensha1919/public_html/checkemail.php on line 3
+[08-Apr-2016 11:56:51 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/ameensha1919/public_html/checkuname.php on line 9
+[08-Apr-2016 11:56:51 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/ameensha1919/public_html/checkuname.php on line 9
+[08-Apr-2016 11:56:51 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/ameensha1919/public_html/checkuname.php on line 9
+[08-Apr-2016 11:56:51 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/ameensha1919/public_html/checkemail.php on line 9
+[08-Apr-2016 11:56:57 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/ameensha1919/public_html/checkemail.php on line 9
+[08-Apr-2016 11:57:25 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/ameensha1919/public_html/checkuname.php on line 9
+[08-Apr-2016 11:57:26 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/ameensha1919/public_html/checkuname.php on line 9
+[08-Apr-2016 12:09:24 UTC] PHP Warning:  mysqli_connect(): (HY000/1130): Host '108.60.22.32' is not allowed to connect to this MariaDB server in /home/ameensha1919/public_html/check.php on line 3
+[08-Apr-2016 12:09:24 UTC] PHP Fatal error:  Call to a member function query() on boolean in /home/ameensha1919/public_html/check.php on line 8
+[08-Apr-2016 12:24:32 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ameensha1919/public_html/recipes.php on line 45
+[08-Apr-2016 12:33:41 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/ameensha1919/public_html/checkuname.php on line 9
+[08-Apr-2016 12:33:41 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/ameensha1919/public_html/checkuname.php on line 9
+[08-Apr-2016 12:33:42 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/ameensha1919/public_html/checkuname.php on line 9
+[08-Apr-2016 12:34:20 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/ameensha1919/public_html/checkuname.php on line 9
+[08-Apr-2016 12:34:52 UTC] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/ameensha1919/public_html/checkuname.php on line 11
+[08-Apr-2016 12:58:21 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/ameensha1919/public_html/sessionChanger.php on line 15
+[08-Apr-2016 13:13:15 UTC] PHP Parse error:  syntax error, unexpected '"</span>&nbsp"' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/ameensha1919/public_html/recipe_list.php on line 54
+[08-Apr-2016 13:26:47 UTC] PHP Catchable fatal error:  Object of class Unirest\Response could not be converted to string in /home/ameensha1919/public_html/recipe_list.php on line 47
+[08-Apr-2016 13:27:27 UTC] PHP Fatal error:  Cannot use object of type Unirest\Response as array in /home/ameensha1919/public_html/recipe_list.php on line 47
+[08-Apr-2016 14:13:37 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/ameensha1919/public_html/sessionChanger.php on line 19
+[08-Apr-2016 14:13:37 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/ameensha1919/public_html/sessionChanger.php on line 19
+[08-Apr-2016 14:13:37 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ameensha1919/public_html/recipe_list.php on line 56
+[08-Apr-2016 14:13:37 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/ameensha1919/public_html/sessionChanger.php on line 19
+[08-Apr-2016 14:14:31 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/ameensha1919/public_html/sessionChanger.php on line 19
+[08-Apr-2016 14:14:31 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/ameensha1919/public_html/sessionChanger.php on line 19
+[08-Apr-2016 14:14:32 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/ameensha1919/public_html/sessionChanger.php on line 19
+[08-Apr-2016 14:14:56 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/ameensha1919/public_html/sessionChanger.php on line 19
+[08-Apr-2016 14:14:56 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/ameensha1919/public_html/sessionChanger.php on line 19
+[08-Apr-2016 14:14:56 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/ameensha1919/public_html/sessionChanger.php on line 19
+[08-Apr-2016 14:15:03 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/ameensha1919/public_html/sessionChanger.php on line 19
+[08-Apr-2016 14:15:04 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/ameensha1919/public_html/sessionChanger.php on line 19
+[08-Apr-2016 14:15:04 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/ameensha1919/public_html/sessionChanger.php on line 19
+[08-Apr-2016 14:18:17 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/ameensha1919/public_html/sessionChanger.php on line 23
+[08-Apr-2016 14:18:17 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/ameensha1919/public_html/sessionChanger.php on line 23
+[08-Apr-2016 14:18:17 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/ameensha1919/public_html/sessionChanger.php on line 23
+[08-Apr-2016 14:21:15 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/ameensha1919/public_html/sessionChanger.php on line 23
+[08-Apr-2016 14:21:15 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/ameensha1919/public_html/sessionChanger.php on line 23
+[08-Apr-2016 14:21:16 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/ameensha1919/public_html/sessionChanger.php on line 23
+[08-Apr-2016 14:21:56 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/ameensha1919/public_html/sessionChanger.php on line 23
+[08-Apr-2016 14:21:56 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/ameensha1919/public_html/sessionChanger.php on line 23
+[08-Apr-2016 14:21:56 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/ameensha1919/public_html/sessionChanger.php on line 23
+[08-Apr-2016 14:23:03 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/ameensha1919/public_html/sessionChanger.php on line 23
+[08-Apr-2016 14:23:03 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/ameensha1919/public_html/sessionChanger.php on line 23
+[08-Apr-2016 14:23:03 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/ameensha1919/public_html/sessionChanger.php on line 23
+[08-Apr-2016 14:23:06 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/ameensha1919/public_html/sessionChanger.php on line 23
+[08-Apr-2016 14:23:06 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/ameensha1919/public_html/sessionChanger.php on line 23
+[08-Apr-2016 14:23:07 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/ameensha1919/public_html/sessionChanger.php on line 23
+[08-Apr-2016 14:25:51 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/ameensha1919/public_html/sessionChanger.php on line 23
+[08-Apr-2016 14:25:52 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/ameensha1919/public_html/sessionChanger.php on line 23
+[08-Apr-2016 14:25:53 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/ameensha1919/public_html/sessionChanger.php on line 23
+[08-Apr-2016 14:26:50 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/ameensha1919/public_html/sessionChanger.php on line 23
+[08-Apr-2016 14:26:50 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/ameensha1919/public_html/sessionChanger.php on line 23
+[08-Apr-2016 14:26:50 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/ameensha1919/public_html/sessionChanger.php on line 23
+[08-Apr-2016 14:27:46 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/ameensha1919/public_html/sessionChanger.php on line 23
+[08-Apr-2016 14:27:47 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/ameensha1919/public_html/sessionChanger.php on line 23
+[08-Apr-2016 14:29:00 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/ameensha1919/public_html/sessionChanger.php on line 23
+[08-Apr-2016 14:29:17 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/ameensha1919/public_html/sessionChanger.php on line 23
+[08-Apr-2016 14:29:17 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/ameensha1919/public_html/sessionChanger.php on line 23
+[08-Apr-2016 14:29:17 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/ameensha1919/public_html/sessionChanger.php on line 23
+[08-Apr-2016 14:29:42 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/ameensha1919/public_html/sessionChanger.php on line 23
+[08-Apr-2016 14:29:43 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/ameensha1919/public_html/sessionChanger.php on line 23
+[08-Apr-2016 14:29:52 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/ameensha1919/public_html/sessionChanger.php on line 23
+[08-Apr-2016 14:34:28 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/ameensha1919/public_html/sessionChanger.php on line 23
+[08-Apr-2016 14:34:29 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/ameensha1919/public_html/sessionChanger.php on line 23
+[08-Apr-2016 14:34:29 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/ameensha1919/public_html/sessionChanger.php on line 23
+[08-Apr-2016 14:42:37 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/ameensha1919/public_html/sessionChanger.php on line 23
+[08-Apr-2016 14:42:37 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/ameensha1919/public_html/sessionChanger.php on line 23
+[08-Apr-2016 14:42:37 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/ameensha1919/public_html/sessionChanger.php on line 23
+[08-Apr-2016 14:44:01 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ameensha1919/public_html/sessionChanger.php on line 40
+[08-Apr-2016 14:44:01 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ameensha1919/public_html/sessionChanger.php on line 40
+[08-Apr-2016 14:44:01 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ameensha1919/public_html/sessionChanger.php on line 40
+[08-Apr-2016 14:44:31 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ameensha1919/public_html/sessionChanger.php on line 42
+[08-Apr-2016 14:44:31 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ameensha1919/public_html/sessionChanger.php on line 42
+[08-Apr-2016 14:44:32 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ameensha1919/public_html/sessionChanger.php on line 42
+[08-Apr-2016 14:45:00 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ameensha1919/public_html/sessionChanger.php:35) in /home/ameensha1919/public_html/sessionChanger.php on line 44
+[08-Apr-2016 14:45:00 UTC] PHP Warning:  join(): Invalid arguments passed in /home/ameensha1919/public_html/recipe_list.php on line 30
+[08-Apr-2016 14:45:00 UTC] PHP Fatal error:  Uncaught exception 'Unirest\Exception' with message 'Couldn't resolve host ''' in /home/ameensha1919/public_html/vendor/mashape/unirest-php/src/Unirest/Request.php:475
+Stack trace:
+#0 /home/ameensha1919/public_html/vendor/mashape/unirest-php/src/Unirest/Request.php(239): Unirest\Request::send('GET', NULL, Array, Array, NULL, NULL)
+#1 /home/ameensha1919/public_html/recipe_list.php(45): Unirest\Request::get(NULL, Array, Array)
+#2 {main}
+  thrown in /home/ameensha1919/public_html/vendor/mashape/unirest-php/src/Unirest/Request.php on line 475
+[08-Apr-2016 14:54:37 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ameensha1919/public_html/recipe_list.php on line 61
+[08-Apr-2016 15:15:11 UTC] PHP Parse error:  syntax error, unexpected ''&offset=0'' (T_CONSTANT_ENCAPSED_STRING) in /home/ameensha1919/public_html/recipe_list.php on line 28
+[08-Apr-2016 15:26:36 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/ameensha1919/public_html/recipe_list.php on line 28
+[08-Apr-2016 15:53:18 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ameensha1919/public_html/sessionChanger.php on line 47
+[08-Apr-2016 15:57:33 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ameensha1919/public_html/sessionChanger.php on line 47
+[08-Apr-2016 15:57:33 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/ameensha1919/public_html/recipe_list.php on line 52
+[08-Apr-2016 15:58:27 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ameensha1919/public_html/sessionChanger.php on line 47
+[08-Apr-2016 15:59:40 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ameensha1919/public_html/sessionChanger.php on line 47
+[08-Apr-2016 16:00:30 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ameensha1919/public_html/sessionChanger.php on line 47
+[08-Apr-2016 16:07:09 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ameensha1919/public_html/sessionChanger.php on line 47
+[08-Apr-2016 16:09:05 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ameensha1919/public_html/sessionChanger.php on line 47
+[08-Apr-2016 16:10:03 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ameensha1919/public_html/sessionChanger.php on line 47
+[08-Apr-2016 16:29:23 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ameensha1919/public_html/sessionChanger.php on line 47
+[08-Apr-2016 17:25:43 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ameensha1919/public_html/sessionChanger.php on line 47
+[08-Apr-2016 17:25:58 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ameensha1919/public_html/sessionChanger.php on line 47
+[08-Apr-2016 17:27:00 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ameensha1919/public_html/sessionChanger.php on line 47
+[08-Apr-2016 17:27:10 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ameensha1919/public_html/sessionChanger.php on line 47
+[08-Apr-2016 17:27:36 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ameensha1919/public_html/sessionChanger.php on line 47
+[08-Apr-2016 17:28:07 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ameensha1919/public_html/sessionChanger.php on line 47
+[08-Apr-2016 17:29:06 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ameensha1919/public_html/sessionChanger.php on line 47
+[08-Apr-2016 17:29:11 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ameensha1919/public_html/sessionChanger.php on line 47
+[08-Apr-2016 17:29:14 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ameensha1919/public_html/sessionChanger.php on line 47
+[08-Apr-2016 17:29:34 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ameensha1919/public_html/sessionChanger.php on line 47
+[08-Apr-2016 17:30:09 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ameensha1919/public_html/sessionChanger.php on line 47
+[08-Apr-2016 17:31:01 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ameensha1919/public_html/sessionChanger.php on line 47
+[08-Apr-2016 17:31:33 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ameensha1919/public_html/sessionChanger.php on line 47
+[08-Apr-2016 17:32:21 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ameensha1919/public_html/sessionChanger.php on line 47
+[08-Apr-2016 17:32:45 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ameensha1919/public_html/sessionChanger.php on line 47
+[08-Apr-2016 17:47:40 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ameensha1919/public_html/sessionChanger.php on line 47
+[09-Apr-2016 01:13:46 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ameensha1919/public_html/sessionChanger.php on line 47
+[09-Apr-2016 19:04:51 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ameensha1919/public_html/sessionChanger.php on line 47
+[09-Apr-2016 21:13:00 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ameensha1919/public_html/sessionChanger.php on line 47
+[11-Apr-2016 01:37:08 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ameensha1919/public_html/sessionChanger.php on line 47
+[11-Apr-2016 01:37:15 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ameensha1919/public_html/sessionChanger.php on line 47
+[13-Apr-2016 03:14:49 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ameensha1919/public_html/sessionChanger.php on line 47
+[13-Apr-2016 03:15:08 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ameensha1919/public_html/sessionChanger.php on line 47
+[13-Apr-2016 03:15:31 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ameensha1919/public_html/sessionChanger.php on line 47
+[28-Apr-2016 03:24:29 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ameensha1919/public_html/sessionChanger.php on line 47
+[28-Apr-2016 03:24:38 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ameensha1919/public_html/sessionChanger.php on line 47
+[03-May-2016 01:59:18 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ameensha1919/public_html/sessionChanger.php on line 47
+[03-May-2016 01:59:20 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ameensha1919/public_html/sessionChanger.php on line 47
+[04-May-2016 22:43:51 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ameensha1919/public_html/sessionChanger.php on line 47

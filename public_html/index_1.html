@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <head>
+        <title>FeedMe Nutritional Application</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" type="text/css" href="main-style.css">
+        <script>
+            function validateForm() {
+                var x = document.forms["myForm"]["fname"].value;
+                if (x == null || x == "") {
+                    alert("Name must be filled out");
+                    return false;
+                }
+            }
+        </script>
+
+
+    </head>
+
+    <body>
+
+
+        <nav>
+
+            <ul>
+                <li>  <div>  <img src="http://www.thisiscolossal.com/wp-content/uploads/2015/05/avacado-1.jpg" style="width:80px"></div></li>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">Recipes</a>
+                    <ul>
+                        <li><a href="#">Create Recipes</a></li>
+                        <li><a href="#">Saved Recipes</a></li>
+
+                    </ul>
+                </li>
+                <li><a href="#">Your Profile</a>
+                    <ul>
+                        <li><a href="#">Favourites</a></li>
+                        <li><a href="#">Shopping Cart</a></li>
+                        <li><a href="#">Profile Stats</a></li>
+                    </ul>
+                </li>
+                <li><a href="#">Contact Us</a></li>
+                <li><a href="#">Sign Up</a></li>
+            </ul>
+        </nav>
+        <br><br><br><br><br><br><br><br><br><br><br><br>
+        <aside>
+            <form name="myForm" action="demo_form.asp"
+                  onsubmit="return validateForm()" method="post">
+                Name: <input type="text" name="fname" required>
+                <input type="submit" value="Submit">
+            </form>
+        </aside>
+
+        <footer>
+            <p>Copyrighted by Marchand corperation. Attempt to steal FeedMe or any of its derivatives will result in being sued</p>
+        </footer>
+
+
+        <br><br><br><br><br><br><br><br><br><br><br>
+    <center>
+        <FORM name="history">
+
+            <!-- This script and many more are available free online at -->
+            <!-- The JavaScript Source!! http://www.javascriptsource.com -->
+
+            <INPUT name="command" type="text" value="">
+            <br><br>
+            <INPUT type="button" value="Add to List" onclick="f_store(document.history.command.value)">
+            <INPUT name="history" type="button" value="Show List" onclick="f_print()">
+        </FORM>
+        <P>
+            <SCRIPT language="JavaScript">
+            <!-- hide it ...
+                function MakeArray(n) {
+                    if (n <= 0) {
+                        this.length = 0;
+                        return this;
+                    }
+                    this.length = n;
+                    for (var i = 1; i <= n; i++) {
+                        this[ i ] = 0;
+                    }
+                    return this;
+                }
+                var history = new MakeArray(15);
+                var index = 0;
+                var cmmnd = 1;
+                function f_store(sTR) {
+                    var i;
+                    if (index >= history.length) {
+                        for (i = 1; i < history.length; i++)
+                            history[i - 1] = history[i];
+                        index = history.length - 1;
+                    }
+                    history[ index ] = cmmnd + ":" + sTR;
+                    ++cmmnd;
+                    ++index;
+                    document.history.command.value = "";
+                }
+                function f_print() {
+                    var allCmmnds, i;
+                    allCmmnds = "";
+                    for (i = 0; i < index; i++)
+                        allCmmnds += history[i] + "\n";
+                    alert(allCmmnds);
+                }
+            // End -->
+            </SCRIPT>
+    </center>
+
+            </body>
+            </html>
